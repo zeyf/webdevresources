@@ -1,0 +1,19 @@
+{
+	"styling": {
+		"css": {
+			"tailwindcss": {
+				"prebuiltcomponents": {
+					article: "https://wallis.dev/blog/5-places-to-get-free-tailwind-css-components",
+					resources: [
+						"https://tailblocks.cc",
+						"https://tailwindcomponents.com",
+						"https://merakiui.com",
+						"https://www.tailwind-kit.com",
+						"https://www.tailwindtoolbox.com"
+					]
+				}
+			}
+		}
+	}
+
+}
