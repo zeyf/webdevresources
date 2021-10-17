@@ -1,2 +1,8 @@
-# frontendresources
-A collection of useful frontend resources for my preferred frontend stack RRTTA
+# webdevresources
+A collection of useful webdev resources for my preferred stack
+
+SMNNRRTTAJ
+
+Backend: SQL(MySQL), MongoDB, NodeJS (NestJS), JWT, Stripe, TypeScript
+
+Frontend: 0Auth, React, Redux, TailwindCSS, TypeScript
